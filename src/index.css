@@ -104,6 +104,10 @@ h1#citynotfound {
   background-color: rgba(255, 255, 255, .2);
 }
 
+.center {
+  text-align: center;
+}
+
 ::placeholder
 {
   color: #f8f8f8;
