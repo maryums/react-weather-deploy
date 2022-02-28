@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useForm } from "react-hook-form";
 import axios from 'axios';
 
-import Error from "./components/Error"
+
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   const [errorMessage, setErrorMessage] = useState('');
 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=f9b8f25a74c92adeeb7d4391ccb86814`
-  const errorMsg = '';
+
 
   const searchLocation = (event) => {
 
@@ -23,7 +23,6 @@ function App() {
           setData(response.data)
         })
         .catch(error => {
-          const errorMsg = error.response.data.message;
           setErrorMessage(error.response.data.message);
         })
     }
