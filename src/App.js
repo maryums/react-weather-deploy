@@ -17,6 +17,7 @@ function App() {
   const searchLocation = (event) => {
 
     if (event.key === 'Enter') {
+      handleReset();
       axios.get(url).then(
         (response) => {
           setData(response.data)
