@@ -47,7 +47,6 @@ function App() {
           onChange={event => setLocation(event.target.value)}
           onKeyPress={searchLocation}
           placeholder='Enter Location'
-          onFocus={handleReset}
           type="text" />
 
 
