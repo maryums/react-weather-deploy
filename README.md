@@ -7,7 +7,7 @@
 <li> HTML/CSS </li>
 <li> React </li> 
 <li> Axios </li> 
-<li> <a href="https://openweathermap.org">OpenWeatherMap</li> 
+<li> <a href="https://openweathermap.org">OpenWeatherMap</a></li> 
   <br>
   <b>View on GitHub Pages </b>
   <a href="https://maryums.github.io/react-weather-deploy/>https://maryums.github.io/react-weather-deploy/</a>
