@@ -1,6 +1,6 @@
 <b>Introduction</b>
-<li> Get weather for any location by city name </li>
-<li> Displays "Feels Like", "Humidity", "Wind Speed" </li> 
+<li> Search by city name to retrieve current weather conditions </li>
+<li> Displays degrees in Fahrenhiet, and condtions such as "Feels Like", "Humidity", "Wind Speed" </li> 
 <br>
 
 <b> Uses </b>
