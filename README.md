@@ -4,7 +4,7 @@
 <br>
 
 <b> Uses </b>
-<li> HTML/CSS </li>
+<li> HTML/CSS/Javascript </li>
 <li> React </li> 
 <li> Axios </li> 
 <li> <a href="https://openweathermap.org">OpenWeatherMap</a></li> 
